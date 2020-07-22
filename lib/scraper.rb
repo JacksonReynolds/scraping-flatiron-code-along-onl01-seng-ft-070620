@@ -21,7 +21,7 @@ class Scraper
   end #get_page
 
   def get_courses
-
+    get_page.css
   end #get_courses
 
   def make_courses
