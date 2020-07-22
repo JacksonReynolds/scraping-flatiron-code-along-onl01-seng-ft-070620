@@ -30,3 +30,5 @@ class Scraper
   end #make_courses
 
 end
+
+Scraper.new.get_page
